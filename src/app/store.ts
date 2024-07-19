@@ -3,7 +3,7 @@ import {showsReducer} from '../store/showsSlice';
 
 export const store = configureStore({
   reducer: {
-    show: showsReducer,
+    shows: showsReducer,
   }
 });
 

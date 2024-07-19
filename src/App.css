@@ -22,4 +22,6 @@
   top: 100%;
   left: 168px;
   margin-top: 10px;
+  background-color: white;
+  z-index: 1;
 }
