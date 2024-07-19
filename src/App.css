@@ -3,3 +3,23 @@
   flex-direction: column;
   min-height: 100vh;
 }
+
+.search-container {
+  position: relative;
+}
+
+.search-input {
+  width: 325px;
+}
+
+.autocomplete {
+  display: flex;
+  width: 325px;
+  flex-direction: column;
+  padding: 10px;
+  border: 1px solid #000;
+  position: absolute;
+  top: 100%;
+  left: 168px;
+  margin-top: 10px;
+}
